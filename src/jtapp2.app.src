@@ -1,0 +1,9 @@
+{application, jtapp2, [
+    {description, "Jiffy Test App 2"},
+    {vsn, "0.0.1"},
+    {registered, []},
+    {applications, [kernel, stdlib, jiffy]},
+    {maintainers, ["Paul J. Davis"]},
+    {licenses, ["MIT"]},
+    {links, [{"GitHub", "https://github.com/davisp/jtapp2"}]}
+]}.
